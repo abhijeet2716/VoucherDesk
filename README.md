@@ -128,8 +128,5 @@ Potential enhancements include:
 
 Abhijeet Gaikwad
 
-- GitHub: "@abhijeet2716" (https://github.com/abhijeet2716)
-- Project Repository: "VoucherDesk" (https://github.com/abhijeet2716/VoucherDesk)
-
 ---
 Built with React, TypeScript, Node.js, and modern web technologies.
