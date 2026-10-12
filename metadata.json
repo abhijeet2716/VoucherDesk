@@ -1,0 +1,6 @@
+{
+  "name": "Expense Voucher Management System",
+  "description": "Enterprise web-based expense voucher creation, multi-level approval workflow, and reimbursement management system for Employees, Directors, and Accounts Teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
